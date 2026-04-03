@@ -1,0 +1,4 @@
+section_id,start_node,end_node,distance_km,max_speed,has_loop_line
+S1,Station_A,Block_1,5,100,FALSE
+S2,Block_1,Station_B,7,80,TRUE
+S3,Station_B,Block_2,6,110,FALSE
