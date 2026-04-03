@@ -1,0 +1,4 @@
+train_no,train_type,priority,entry_time,target_exit_time,direction
+12301,Rajdhani,1,8:00,9:30,Up
+12802,Express,2,8:15,10:00,Down
+90045,Freight,3,8:30,11:30,Up
