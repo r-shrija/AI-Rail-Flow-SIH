@@ -20,7 +20,7 @@ col3.metric("System Safety", "100%", "Secure")
 
 # 3. The String Chart (Visualizing the 'Brain')
 st.subheader("Live Section String Chart (Time vs. Distance)")
-# Dummy data for the chart
+# Dummy data for chart
 chart_data = pd.DataFrame({
     'Time': [0, 10, 20, 30, 0, 15, 40],
     'Distance': [0, 5, 10, 15, 0, 5, 15],
